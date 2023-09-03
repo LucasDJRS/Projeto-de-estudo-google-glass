@@ -8,19 +8,19 @@ Pequeno site produzido a nível de estudo. Utilizei HTML, CSS e JavaScript para 
 <p>5-Escolha o seu editor de texto.</p>
 
   ## Prints do site:
-  <p aling="center>
-  <img src="/imagens-para-o-readme/pag-in.png>
+  <p aling="center">
+  <img src="/imagens-para-o-readme/pag-in.png">
   </p>
-  <p aling="center>
-  <img src="/imagens-para-o-readme/espec.png>
+  <p aling="center">
+  <img src="/imagens-para-o-readme/espec.png">
   </p>
-  <p aling="center>
-  <img src="/imagens-para-o-readme/fotos.png>
+  <p aling="center">
+  <img src="/imagens-para-o-readme/fotos.png">
   </p>
-  <p aling="center>
+  <p aling="center">
   <img src="/imagens-para-o-readme/mult.png>
-  </p><p aling="center>
-  <img src="/imagens-para-o-readme/fale-con.png>
+  </p><p aling="center">
+  <img src="/imagens-para-o-readme/fale-con.png">
   </p>
 
 
